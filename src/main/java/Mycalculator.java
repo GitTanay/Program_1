@@ -20,5 +20,11 @@ public class Mycalculator {
 
     }
 
+    public double mod(int a, int b){
+
+        return a%b;
+    }
+
+
 
 }
